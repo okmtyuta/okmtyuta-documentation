@@ -4,4 +4,6 @@
 現状，雑多なドキュメントがデスクトップ上に散乱しているので，Gitで集中管理したい。
 
 ## 注意
-プログラミングそれ自体に関するドキュメントについては[sandboxリポジトリ](https://github.com/okmtyuta/sandbox)での管理も検討すること。
+- 以下のことに関するドキュメントについては対応するリポジトリでの管理も検討すること
+  - プログラミングそれ自体: [sandboxリポジトリ](https://github.com/okmtyuta/sandbox)
+  - GitおよびGitHub: [gitsリポジトリ](https://github.com/okmtyuta/gits)
