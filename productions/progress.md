@@ -1,4 +1,4 @@
-# 現在開発中のプロダクト
+# 現在開発中
 
 ## [okmtyuta-engineering](https://github.com/okmtyuta/okmtyuta-engineering)
 技術ブログ。NestJS + Next + Docker + Ubuntuで開発中。
